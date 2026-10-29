@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /admin.html
+# Training-only route hint; robots.txt is not access control.
